@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my website!
+
+Learn more about me and my work here: https://www.linkedin.com/in/adyaparida
